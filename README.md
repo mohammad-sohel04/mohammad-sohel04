@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Mohammad Sohel" />
+</h1>
 
-<!--
-**mohammad-sohel04/mohammad-sohel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Mohammad Sohel, a 19 years old from India.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 JAVA,Python,Embeded C, etc...
+- ⚙️ React, SQL
+- 👁️ Machine Learnng,IoT
+- 💽 MATLAB,Multisim,Tinkercad
++ a lot more :D
+
+## Contact
+- [Linkedin](https://www.linkedin.com/in/sohel0)
