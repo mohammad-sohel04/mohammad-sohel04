@@ -1,17 +1,20 @@
-<h1 align="right">
-  <img src="https://camo.githubusercontent.com/7aa3f82fe8ec6d2305631985e85153a0fd9b7167e70bc9fe5f0439ad789026b7/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343768656e77756b657638776b32336436696533793767766f3378777336797833353330703061396c79267269643d323030772e776562702663743d67" alt="Mohammad Sohel" />
-</h1>
-
-## Hey! 👋
-I'm Mohammad Sohel, a 19 years old from India.
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Coding GIF" width="500" height="320" />
+</p>
 
 
-## Skills
-- 👨‍💻 JAVA,Python,Embeded C, etc...
-- ⚙️ React, SQL
-- 👁️ Machine Learnng,IoT
-- 💽 MATLAB,Multisim,Tinkercad
-+ a lot more :D
+<h1 align="center"># Hi there, I'm Mohammad Sohel! 👋</h1>
 
-## Contact
-- [Linkedin](https://www.linkedin.com/in/sohel0)
+<p align="center">I'm a passionate 19-year-old software enthusiast from India, constantly exploring the realms of technology and innovation.</p>
+
+## 💼 Skills
+
+- **Languages:** Java, Python, Embedded C
+- **Technologies:** React, SQL
+- **Domains:** Machine Learning, IoT
+- **Tools:** MATLAB, Multisim, Tinkercad
+- *Plus much more!* 😄
+
+## 📫 Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sohel0) for collaboration or just a friendly chat!
